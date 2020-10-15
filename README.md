@@ -3,4 +3,4 @@
 
 
 
-Change the variable summonerName in main.js then use console to run node main.js, same concept with together.js
+Change the variable summonerName in main.js then use console to run `node main.js`, same concept with together.js
