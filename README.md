@@ -30,8 +30,8 @@ Amount of matches: 990
 ```
 
 ```
-Antriko: 991
-Quelly: 997
+Antriko: 990
+Quelly: 996
 Total games together: 550
 55.50% 55.17%
 ```

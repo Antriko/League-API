@@ -42,6 +42,7 @@ function getRequest(path) {
 
     matchIDs.forEach( val => {
         writeStream.write(`${val}\n`)
+        // Adds a empty line to end
     })
     writeStream.on("finish", () => {
         writeStream.end();
