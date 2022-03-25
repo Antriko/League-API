@@ -16,4 +16,7 @@ dupes = arrOne.filter(val => {
     return arrTwo.indexOf(val) == -1;
 })
 
-console.log(`${nameOne}: ${arrOne.length}\n${nameTwo}: ${arrTwo.length}\nTotal games together: ${dupes.length}\n${(dupes.length/arrOne.length * 100).toFixed(2)}% ${(dupes.length/arrTwo.length * 100).toFixed(2)}%`)
+console.log(`${nameOne}: ${arrOne.length}
+${nameTwo}: ${arrTwo.length}
+Total games together: ${dupes.length}
+${(dupes.length/arrOne.length * 100).toFixed(2)}%\t${(dupes.length/arrTwo.length * 100).toFixed(2)}%`)
